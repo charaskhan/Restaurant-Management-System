@@ -10,7 +10,7 @@ Contributions: Open issues, submit pull requests, review pull requests.
 
 Purpose: Digitize restaurant operations (ordering, billing, kitchen management, hall management, inventory management) for improved efficiency and reduced paperwork.
 
-Contributors: Ramsha Siddiqui, Hassaan Elahi, Mahnoor Kashif, Shafaq Arshad, Marriam Sajid, and other members of the Software Engineering class of Spring 2018.
+
 
 User Classes: Customer, Head Chef/Kitchen Manager, Chef, Admin, Hall Manager.
 
